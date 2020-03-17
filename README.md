@@ -43,5 +43,5 @@ Game: Sort houses by number of windows
 ![Screenshot](https://github.com/teofanaenachioiu/Veronica-Game/blob/master/screenshots/vero12.png)
 
 
-End Game: Veronica thanks the children for helping her to recover first letter from her name
+End Game: Veronica thanks the children for helping her to recover first letter of her name
 ![Screenshot](https://github.com/teofanaenachioiu/Veronica-Game/blob/master/screenshots/vero13.png)
